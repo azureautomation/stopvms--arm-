@@ -1,0 +1,20 @@
+{
+    "Author": "Jay Avent",
+    "ContentSize": 3406,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stopvms-(arm)/master/Stop-VMs.ps1",
+    "DownloadCount": 3640,
+    "Id": "Stop-VMs-ARM-bbb0afd0",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 493,
+    "RaterCount": 1,
+    "Rating": 3.0,
+    "ReleaseDate": "2016-3-30T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Stops all the Azure VMs in a specific Azure Resource Group. This simple runbook stops all of the virtual machines in the specified Azure Resource Group. It is particularly useful for CSP (Cloud Solution Provider) customers, or users who have multiple subscriptions/tenants.",
+    "Title": "Stop-VMs (ARM)",
+    "UpdatedDate": "2016-4-28T00:00:00",
+    "Url": "https://github.com/azureautomation/stopvms-(arm)",
+    "UserTags": ""
+}
